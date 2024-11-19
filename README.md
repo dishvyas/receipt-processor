@@ -55,9 +55,9 @@ To verify the implementation and test against edge cases, run:
 
 ## What the Tests Cover
 
-	-	Validation: Ensures all required fields and formats are correctly handled.
-	-	Edge Cases: Tests behavior for invalid inputs, missing fields, and other edge scenarios.
-	-	Point Calculations: Validates correct point calculation based on the defined rules.
+	- Validation: Ensures all required fields and formats are correctly handled.
+	- Edge Cases: Tests behavior for invalid inputs, missing fields, and other edge scenarios.
+	- Point Calculations: Validates correct point calculation based on the defined rules.
 
     Sample output:
     ```plaintext
